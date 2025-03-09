@@ -9,8 +9,8 @@ function novaLista() {
 
 function adicionarItem() {
     itemParaAdicionar = prompt("Qual item será adicionado na lista?");
-    listaDeItens.push(itemParaAdicionar + "<br>");
+    listaDeItens.push("<li>" + itemParaAdicionar + "</li>");
     let itensDaLista = listaDeItens;
     output.innerHTML = itensDaLista;
-    
+
 }
