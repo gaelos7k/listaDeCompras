@@ -7,3 +7,5 @@ O objetivo inicial é fazer com javascript, html e css uma lista ordenada que ad
 Estou desenvolvendo esse projeto inteiramente sozinho apenas utilizando as documentações das tecnologias anteriormente descritas, o maior objetivo além de auxilar na operação da loja é treinar e desenvolver minhas habilidades de programação, além de ver meus avanços nos estudos autoditadas de lógica de programação com javascript.
 
 Ressalto que dia 10/03/2025 iniciarei meu curso técnico de desenvolvimento de sistemas onde terei muito mais contato com o mundo do desenvovimento de softwares.
+
+03/10/2025 - Apaguei todas as linhas, irei refazer tudo do zero usando outra lógica para desenvolver meu algoritmo.
